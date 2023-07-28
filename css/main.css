@@ -97,12 +97,15 @@ textarea {
 
 /*Large Background Image*/
 html {
-  background: url(../img/bkgd2.jpg) no-repeat center center fixed;
+  background: url(../img/remy_loz-3S0INpfREQc-unsplash.jpg) no-repeat center center fixed;
+  background-size: cover;
    /* set height to 100% - these are important for allowing content to vertically align */
+   height: 100%;
 }
 
 body {
   /* set height to 100% - these are important for allowing content to vertically align */
+  height: 100%;
 }
 
 .wrapper {
